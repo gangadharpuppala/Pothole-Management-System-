@@ -1,1 +1,1 @@
-# Pothole-Management-System-
+The Pothole Reporting System is a web-based application that allows users to report and track pothole complaints in real-time. It is built using FastAPI for the backend and PostgreSQL with PostGIS for geolocation support. The application is containerized with Docker, deployed using Kubernetes, and hosted on AWS EC2 and RDS. It includes role-based access for public users, city staff, and administrators. CI/CD is automated using GitHub Actions to streamline testing and deployment.
